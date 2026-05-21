@@ -8,7 +8,7 @@ The application recommends similar movies based on user selection and displays m
 
 # 🚀 Live Demo
 
-https://movierecommendersystem-9qfmvdr355husclow.streamlit.app/
+Streamlit LINK: https://movierecommendersystem-usingmachinelearning-qnfnnmkhr8vs7oqhga.streamlit.app/
 
 ---
 
